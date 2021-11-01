@@ -1,0 +1,22 @@
+* {
+  font-family: "Patrick Hand";
+}
+body {
+  padding: 8px;
+  background-color: lightgray;
+}
+
+.card {
+  background-color: white;
+  border-radius: 1rem;
+}
+.card > .card-body > h4 {
+  color: tomato;
+}
+#cardName {
+  background-color: tomato;
+}
+img {
+  /* width: 100%; */
+  height: auto;
+}
